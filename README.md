@@ -1,2 +1,2 @@
-# Internship-22
+# Internship
 Intern @ FlipRobo Technologies
